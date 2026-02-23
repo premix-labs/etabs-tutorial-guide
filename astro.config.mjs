@@ -5,7 +5,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://premix-labs.github.io",
+  base: "/etabs-tutorial-guide",
   integrations: [
     starlight({
       title: "ETABS Tutorial Guide",
