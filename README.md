@@ -1,5 +1,9 @@
 # Astro Starter Kit: Minimal
 
+[![Deploy to GitHub Pages](https://github.com/premix-labs/etabs-tutorial-guide/actions/workflows/deploy.yml/badge.svg)](https://github.com/premix-labs/etabs-tutorial-guide/actions/workflows/deploy.yml)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fpremix-labs.github.io%2Fetabs-tutorial-guide%2F&up_message=live&down_message=down&label=website)](https://premix-labs.github.io/etabs-tutorial-guide/)
+[![Last Commit](https://img.shields.io/github/last-commit/premix-labs/etabs-tutorial-guide)](https://github.com/premix-labs/etabs-tutorial-guide/commits/master)
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
